@@ -66,6 +66,8 @@ Edit
 # Clone the repo
 git clone https://github.com/karanSonker/Task_schedular.git
 
+Deployed link : https://task-schedular-zeta.vercel.app/
+
 # Setup backend
 cd server
 npm install
